@@ -12,3 +12,5 @@ The data isn't available anymore. Apple stopped releasing the data 04/12/2022.
 * 2022-09-02: data subsetted for Ohio.
 
 * 22-09-27: I worked to refactor the code to be able to subset any state from the larger file.
+
+* 22-09-21: Add git infrastructure to project and push to GitHub
