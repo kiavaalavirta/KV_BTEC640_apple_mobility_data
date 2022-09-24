@@ -7,6 +7,8 @@ The aim of this project is to analyze the mobility data made available by Apple.
 
 The data isn't available anymore. Apple stopped releasing the data 04/12/2022.
 
+Currently, it uses dplyr to work with tabular data. Eventually, it will also include use of ggplot2 to visualize the data set.
+
 ### Change Log
 
 * 22-09-02: data subsetted for Ohio.
@@ -15,4 +17,4 @@ The data isn't available anymore. Apple stopped releasing the data 04/12/2022.
 
 * 22-09-21: Add git infrastructure to project and push to GitHub
 
-* 22-09-24: Create a second script file in the pipeline using dplyr and modifying the scripts to use for loop.
+* 22-09-24: Create a second script file in the pipeline using dplyr and modifying the scripts to use for loop to tally up the city and county counts in given states with different transportation types.
