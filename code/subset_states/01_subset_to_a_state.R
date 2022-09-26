@@ -13,4 +13,4 @@ source("code/functions/subset_to_a_state.R")
 # test out the use of the function
 subset_to_a_state(
   input_file_name = "data/raw_data/applemobilitytrends-2022-04-12.csv",
-  state_name = "Alaska")
+  state_name = "Hawaii")
