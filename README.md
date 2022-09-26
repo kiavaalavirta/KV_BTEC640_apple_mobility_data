@@ -17,4 +17,8 @@ Currently, it uses dplyr to work with tabular data. Eventually, it will also inc
 
 * 22-09-21: Add git infrastructure to project and push to GitHub
 
-* 22-09-24: Create a second script file in the pipeline using dplyr and modifying the scripts to use for loop to tally up the city and county counts in given states with different transportation types.
+* 22-09-24: Create a second script file in the pipeline using dplyr and modifying the scripts to use for loop to tally up the city and county counts in given states with different transportation types
+
+* 22-09-25: Create a function of the second script and loops for first and second script files to collect data of 5 chosen states
+
+* 22-09-25: lintr check subset to state function file
