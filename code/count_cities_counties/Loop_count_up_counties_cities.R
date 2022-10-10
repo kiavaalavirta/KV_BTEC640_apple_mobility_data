@@ -7,14 +7,14 @@
 # kavaalavirta@dons.usfca.edu
 
 # load function
-source("code/cities_counties_by_state.R")
+source("code/functions/cities_counties_by_state.R")
 
 # creating a for loop to get data for all 5 states chosen
 for (input_file_name in c(
-  "output/applemobilitytrends-2022-04-12_Alabama.csv",
-  "output/applemobilitytrends-2022-04-12_Nevada.csv",
-  "output/applemobilitytrends-2022-04-12_California.csv",
-  "output/applemobilitytrends-2022-04-12_Kansas.csv",
-  "output/applemobilitytrends-2022-04-12_Nebraska.csv")) {
+  "output/subsetted_states_wide/applemobilitytrends-2022-04-12_Alabama.csv",
+  "output/subsetted_states_wide/applemobilitytrends-2022-04-12_Nevada.csv",
+  "output/subsetted_states_wide/applemobilitytrends-2022-04-12_California.csv",
+  "output/subsetted_states_wide/applemobilitytrends-2022-04-12_Kansas.csv",
+  "output/subsetted_states_wide/applemobilitytrends-2022-04-12_Nebraska.csv")) {
   cities_counties_by_state(input_file_name)
 }
