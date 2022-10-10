@@ -15,9 +15,9 @@ library("dplyr")
 # namely the state csv files that were already subsetted
 
 # create a function to subset any US state out of the full data set
-cities_counties_by_state <- function(input_file_name) {
+cities_counties_by_state <- function(file_name_in) {
   # read in the complete csv file
-  state_data <- read.csv(input_file_name)
+  state_data <- readr::read_csv(file_name_in)
 
   # using dplyr chains to count cities and counties by type
   count_cities_counties_type <- state_data %>%
@@ -31,10 +31,11 @@ cities_counties_by_state <- function(input_file_name) {
   }
 
   # write out the result of the dplyr chain
-  write.csv(count_cities_counties_type, file = paste0("output/",
+  readr::write_csv(count_cities_counties_type, file =
+                     paste0("output/subsetted_states_tallied/",
                                                       tools::file_path_sans_ext(
                                                         basename(
-                                                          input_file_name)),
+                                                          file_name_in)),
                                                       "_",
                                                       "cities_counties_counts",
                                                       ".csv"))

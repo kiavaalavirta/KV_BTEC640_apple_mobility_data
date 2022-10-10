@@ -6,7 +6,7 @@
 # kavaalavirta@dons.usfca.edu
 # September 2, 2022
 
-# read in the complete csv file 
+# read in the complete csv file
 all_covid_data <- read.csv("data/raw data/applemobilitytrends-2022-04-12.csv")
 
 # subset the dataset to only include rows where the sub.region column has

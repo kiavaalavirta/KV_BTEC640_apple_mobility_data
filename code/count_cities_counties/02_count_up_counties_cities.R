@@ -7,8 +7,8 @@
 # kavaalavirta@dons.usfca.edu
 
 # load function
-source("code/cities_counties_by_state.R")
+source("code/functions/cities_counties_by_state.R")
 
 # creating a for loop to get data for all 5 states chosen
-cities_counties_by_state(input_file_name =
-                           "output/applemobilitytrends-2022-04-12_Alaska.csv")
+cities_counties_by_state(file_name_in = paste0("output/subsetted_states_wide/",
+                         "applemobilitytrends-2022-04-12_Alabama.csv"))
