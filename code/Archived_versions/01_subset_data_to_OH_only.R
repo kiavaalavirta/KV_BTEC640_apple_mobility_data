@@ -5,6 +5,7 @@
 # Kia Vaalavirta
 # kavaalavirta@dons.usfca.edu
 # September 2, 2022
+# Updated October 9, 2022
 
 # read in the complete csv file
 all_covid_data <- read.csv("data/raw data/applemobilitytrends-2022-04-12.csv")
