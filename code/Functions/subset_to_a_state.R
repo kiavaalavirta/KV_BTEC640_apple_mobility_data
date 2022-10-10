@@ -27,7 +27,7 @@ subset_to_a_state <- function(input_file_name,
   # check that the subsetted data actually has data in it
   if (nrow(state_dataset) == 0)  {
     stop("ERROR: No rows matching given state name. Did you make a typo?")
-}
+  }
 
   # save the subsetted state data to a new csv file in the output directory
   readr::write_csv(state_dataset, file = paste0("output/subsetted_states_wide/",
