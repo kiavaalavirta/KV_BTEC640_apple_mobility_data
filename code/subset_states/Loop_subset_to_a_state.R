@@ -13,7 +13,7 @@ source("code/functions/subset_to_a_state.R")
 # create state vector
 state <- c("Alabama", "Nebraska", "California", "Nevada", "Kansas")
 
-# test out the use of the function
+# run the for loop function
 for (state_name in state) {
   subset_to_a_state(
     input_file_name = "data/raw_data/applemobilitytrends-2022-04-12.csv",
