@@ -1,6 +1,6 @@
 # Analysis of Apple Mobility Data in the Era of COVID-19
 
-Kia Vaalavirta
+Kia Vaalavirta  
 kavaalavirta@dons.usfca.edu
 
 The aim of this project is to analyze the mobility data made available by Apple.
