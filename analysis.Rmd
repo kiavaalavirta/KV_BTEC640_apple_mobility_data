@@ -4,6 +4,9 @@ name: Kia Vaalavirta
 date: 10/8/2022
 output: html_document
 bibliography: references.bib
+params:
+  state: "New York"
+  data: "data/raw_data/applemobilitytrends-2022-04-12.csv"
 ---
 
 ```{r setup, include=FALSE}
@@ -15,10 +18,10 @@ knitr::opts_chunk$set(echo = TRUE, message = TRUE)
 
 ```{r set-parameters}
 # assignment of the path/name of the full dataset
-global_file_to_process <- "data/raw_data/applemobilitytrends-2022-04-12.csv"
+global_file_to_process <- params$data
 
 # assignment of a single state name to a variable
-state_to_analyze <- "New York"
+state_to_analyze <- params$state
 
 # sanitize state names with spaces and replace them with underscores
 state_no_spaces <- gsub(state_to_analyze,
