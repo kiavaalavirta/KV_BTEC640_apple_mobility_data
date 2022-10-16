@@ -1,5 +1,5 @@
 ---
-title: "apple_relative_mobility_data"
+title: "Analysis of COVID-Era Apple Mobility Data"
 name: Kia Vaalavirta
 date: 10/8/2022
 output: html_document
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE, message = TRUE)
 global_file_to_process <- "data/raw_data/applemobilitytrends-2022-04-12.csv"
 
 # assignment of a single state name to a variable
-state_to_analyze <- "Alaska"
+state_to_analyze <- "New York"
 
 # sanitize state names with spaces and replace them with underscores
 state_no_spaces <- gsub(state_to_analyze,
@@ -156,12 +156,8 @@ stacked_state_plot
 
 ## Session Info
 
-```{report-software-versions}
+```{r session-info}
 devtools::session_info()
 ```
 
 ## Sources Cited
-
-
-
-
