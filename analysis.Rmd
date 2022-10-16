@@ -135,6 +135,9 @@ timeseries_plot
 ```
 
 ```{r state-stacked}
+# create a stacked bar plot of transportation types in cities and counties
+# in the chosen state
+# type of area is on x axis and type of transportation is on y axis
 stacked_state_plot <- ggplot(data = long_subset, aes(geo_type)) +
   geom_bar(aes(fill = transportation_type), width = 0.5) +
   labs(title = paste("The distribution of transportation types in",
