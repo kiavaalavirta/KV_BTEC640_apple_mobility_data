@@ -1,4 +1,4 @@
-# the goal of this script is to change subsetted data of any state
+# the goal of this script is to convert subsetted data of any state
 # that has Apple mobility data available from wide to long
 # and display relative mobility in the new csv file that is saved
 # in output/subsetted_states_long directory
