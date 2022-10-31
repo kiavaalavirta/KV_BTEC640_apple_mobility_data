@@ -19,3 +19,4 @@ Currently, it uses dplyr to work with tabular data. It also includes use of ggpl
 * 22-09-25: lintr check subset to state function file
 * 22-10-09: Create wide to long function. Create analysis R markdown file to combine information and create graphs.
 * 22-10-18: Parameterize Rmd and bash script to drive knitting
+* 22-10-31: Parse SARS-CoV-2 sequence data using Linux tools
