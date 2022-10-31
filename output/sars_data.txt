@@ -1,0 +1,104 @@
+>NC_045512.2 |GCF_009858895.2|Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome||Wu,F., Zhao,S., Yu,B., Chen,Y.M., Wang,W., Song,Z.G., Hu,Y., Tao,Z.W., Tian,J.H., Pei,Y.Y., Yuan,M.L., Zhang,Y.L., Dai,F.H., Liu,Y., Wang,Q.M., Zheng,J.J., Xu,L., Holmes,E.C., Zhang,Y.Z., Baranov,P.V., Henderson,C.M., Anderson,C.B., Gesteland,R.F., Atkins,J.F., Howard,M.T., Robertson,M.P., Igel,H., Baertsch,R., Haussler,D., Ares,M. Jr., Scott,W.G., Williams,G.D., Chang,R.Y., Brian,D.A., Chen,Y.-M., Song,Z.-G., Tao,Z.-W., Tian,J.-H., Pei,Y.-Y., Zhang,Y.-L., Dai,F.-H., Wang,Q.-M., Zheng,J.-J., Zhang,Y.-Z.|2020-01-13T00:00:00Z|B||Wuhan-Hu-1|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29903|RefSeq|complete|||4|China|China||Homo sapiens||2019-12|
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGTAGATCT
+GTTCTCTAAACGAACTTTAAAATCTGTGTGGCTGTCACTCGGCTGCATGCTTAGTGCACT
+CACGCAGTATAATTAATAACTAATTACTGTCGTTGACAGGACACGAGTAACTCGTCTATC
+TTCTGCAGGCTGCTTACGGTTTCGTCCGTGTTGCAGCCGATCATCAGCACATCTAGGTTT
+CGTCCGGGTGTGACCGAAAGGTAAGATGGAGAGCCTTGTCCCTGGTTTCAACGAGAAAAC
+ACACGTCCAACTCAGTTTGCCTGTTTTACAGGTTCGCGACGTGCTCGTACGTGGCTTTGG
+AGACTCCGTGGAGGAGGTCTTATCAGAGGCACGTCAACATCTTAAAGATGGCACTTGTGG
+CTTAGTAGAAGTTGAAAAAGGCGTTTTGCCTCAACTTGAACAGCCCTATGTGTTCATCAA
+ACGTTCGGATGCTCGAACTGCACCTCATGGTCATGTTATGGTTGAGCTGGTAGCAGAACT
+First 10 lines of the data are displayed.
+>NC_045512.2 |GCF_009858895.2|Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome||Wu,F., Zhao,S., Yu,B., Chen,Y.M., Wang,W., Song,Z.G., Hu,Y., Tao,Z.W., Tian,J.H., Pei,Y.Y., Yuan,M.L., Zhang,Y.L., Dai,F.H., Liu,Y., Wang,Q.M., Zheng,J.J., Xu,L., Holmes,E.C., Zhang,Y.Z., Baranov,P.V., Henderson,C.M., Anderson,C.B., Gesteland,R.F., Atkins,J.F., Howard,M.T., Robertson,M.P., Igel,H., Baertsch,R., Haussler,D., Ares,M. Jr., Scott,W.G., Williams,G.D., Chang,R.Y., Brian,D.A., Chen,Y.-M., Song,Z.-G., Tao,Z.-W., Tian,J.-H., Pei,Y.-Y., Zhang,Y.-L., Dai,F.-H., Wang,Q.-M., Zheng,J.-J., Zhang,Y.-Z.|2020-01-13T00:00:00Z|B||Wuhan-Hu-1|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29903|RefSeq|complete|||4|China|China||Homo sapiens||2019-12|
+This is the first sequence.
+NC_045512.2|GCF_009858895.2|Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome||Wu,F., Zhao,S., Yu,B., Chen,Y.M., Wang,W., Song,Z.G., Hu,Y., Tao,Z.W., Tian,J.H., Pei,Y.Y., Yuan,M.L., Zhang,Y.L., Dai,F.H., Liu,Y., Wang,Q.M., Zheng,J.J., Xu,L., Holmes,E.C., Zhang,Y.Z., Baranov,P.V., Henderson,C.M., Anderson,C.B., Gesteland,R.F., Atkins,J.F., Howard,M.T., Robertson,M.P., Igel,H., Baertsch,R., Haussler,D., Ares,M. Jr., Scott,W.G., Williams,G.D., Chang,R.Y., Brian,D.A., Chen,Y.-M., Song,Z.-G., Tao,Z.-W., Tian,J.-H., Pei,Y.-Y., Zhang,Y.-L., Dai,F.-H., Wang,Q.-M., Zheng,J.-J., Zhang,Y.-Z.|2020-01-13T00:00:00Z|B||Wuhan-Hu-1|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29903|RefSeq|complete|||4|China|China||Homo sapiens||2019-12|
+OP648146.1||Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/THA/CONI-0215/2020, complete genome||Batty,E., Chantratita,W., Chookajorn,T., Fernandez,S., Huang,A., Jones,A.R., Joonsalak,K., Klungtong,C., Kochakarn,T., Kotanan,N., Kumpornsin,K., Manasatienkij,W., Panthan,B., Pasomsub,E., Rakmanee,K., Sensorn,I., Thaipadungpanit,J., Wangwiwatsin,A., Watthanachockchai,T.|2022-10-17T00:00:00Z|||CONI-0215|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29873|GenBank|complete||||Thailand: Bangkok|Thailand||Homo sapiens||2020-03-18|
+OP648147.1||Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/THA/CONI-0216/2020, complete genome||Batty,E., Chantratita,W., Chookajorn,T., Fernandez,S., Huang,A., Jones,A.R., Joonsalak,K., Klungtong,C., Kochakarn,T., Kotanan,N., Kumpornsin,K., Manasatienkij,W., Panthan,B., Pasomsub,E., Rakmanee,K., Sensorn,I., Thaipadungpanit,J., Wangwiwatsin,A., Watthanachockchai,T.|2022-10-17T00:00:00Z|||CONI-0216|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29847|GenBank|complete||||Thailand: Bangkok|Thailand||Homo sapiens||2020-03-19|
+OP648148.1||Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/THA/CONI-0217/2020, complete genome||Batty,E., Chantratita,W., Chookajorn,T., Fernandez,S., Huang,A., Jones,A.R., Joonsalak,K., Klungtong,C., Kochakarn,T., Kotanan,N., Kumpornsin,K., Manasatienkij,W., Panthan,B., Pasomsub,E., Rakmanee,K., Sensorn,I., Thaipadungpanit,J., Wangwiwatsin,A., Watthanachockchai,T.|2022-10-17T00:00:00Z|||CONI-0217|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29817|GenBank|complete||||Thailand: Bangkok|Thailand||Homo sapiens||2020-03-19|
+OP648149.1||Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/THA/CONI-0219/2020, complete genome||Batty,E., Chantratita,W., Chookajorn,T., Fernandez,S., Huang,A., Jones,A.R., Joonsalak,K., Klungtong,C., Kochakarn,T., Kotanan,N., Kumpornsin,K., Manasatienkij,W., Panthan,B., Pasomsub,E., Rakmanee,K., Sensorn,I., Thaipadungpanit,J., Wangwiwatsin,A., Watthanachockchai,T.|2022-10-17T00:00:00Z|||CONI-0219|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29827|GenBank|complete||||Thailand: Bangkok|Thailand||Homo sapiens||2020-03-19|
+OP648150.1||Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/THA/CONI-0220/2020, complete genome||Batty,E., Chantratita,W., Chookajorn,T., Fernandez,S., Huang,A., Jones,A.R., Joonsalak,K., Klungtong,C., Kochakarn,T., Kotanan,N., Kumpornsin,K., Manasatienkij,W., Panthan,B., Pasomsub,E., Rakmanee,K., Sensorn,I., Thaipadungpanit,J., Wangwiwatsin,A., Watthanachockchai,T.|2022-10-17T00:00:00Z|||CONI-0220|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29801|GenBank|complete||||Thailand: Bangkok|Thailand||Homo sapiens||2020-03-20|
+OP648151.1||Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/THA/CONI-0221/2020 ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a protein (ORF7a), ORF7b (ORF7b), ORF8 protein (ORF8), nucleocapsid phosphoprotein (N), and ORF10 protein (ORF10) genes, complete cds||Batty,E., Chantratita,W., Chookajorn,T., Fernandez,S., Huang,A., Jones,A.R., Joonsalak,K., Klungtong,C., Kochakarn,T., Kotanan,N., Kumpornsin,K., Manasatienkij,W., Panthan,B., Pasomsub,E., Rakmanee,K., Sensorn,I., Thaipadungpanit,J., Wangwiwatsin,A., Watthanachockchai,T.|2022-10-17T00:00:00Z|||CONI-0221|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29827|GenBank|partial||||Thailand: Bangkok|Thailand||Homo sapiens||2020-03-20|
+OP648152.1||Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/THA/CONI-0222/2020 ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a protein (ORF7a), ORF7b (ORF7b), ORF8 protein (ORF8), nucleocapsid phosphoprotein (N), and ORF10 protein (ORF10) genes, complete cds||Batty,E., Chantratita,W., Chookajorn,T., Fernandez,S., Huang,A., Jones,A.R., Joonsalak,K., Klungtong,C., Kochakarn,T., Kotanan,N., Kumpornsin,K., Manasatienkij,W., Panthan,B., Pasomsub,E., Rakmanee,K., Sensorn,I., Thaipadungpanit,J., Wangwiwatsin,A., Watthanachockchai,T.|2022-10-17T00:00:00Z|||CONI-0222|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29818|GenBank|partial||||Thailand: Bangkok|Thailand||Homo sapiens||2020-03-20|
+OP647358.1||Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/VNM/OUCRU-NHTD_B101/2021 ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a protein (ORF7a), and ORF7b (ORF7b) genes, complete cds; ORF8 gene, complete sequence; and nucleocapsid phosphoprotein (N) and ORF10 protein (ORF10) genes, complete cds||Kesteman,T., Nguyen,T., Trinh,T.S., Trinh,D.C., Nguyen,T.H., Le,D.V., Van,T.D., Pham,T.N., van Doorn,R.|2022-10-16T00:00:00Z|B.1.1.7||OUCRU-NHTD_B101|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29803|GenBank|partial||||Viet Nam|Viet Nam||Homo sapiens|oronasopharynx|2021-01-28|
+OP647359.1||Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/VNM/OUCRU-NHTD_B102/2021 ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a protein (ORF7a), and ORF7b (ORF7b) genes, complete cds; ORF8 gene, complete sequence; and nucleocapsid phosphoprotein (N) and ORF10 protein (ORF10) genes, complete cds||Kesteman,T., Nguyen,T., Trinh,T.S., Trinh,D.C., Nguyen,T.H., Le,D.V., Van,T.D., Pham,T.N., van Doorn,R.|2022-10-16T00:00:00Z|B.1.1.7||OUCRU-NHTD_B102|Severe acute respiratory syndrome-related coronavirus|Betacoronavirus|Coronaviridae|ssRNA(+)|29805|GenBank|partial||||Viet Nam|Viet Nam||Homo sapiens|oronasopharynx|2021-01-29|
+These are the first ten sequence names with comments.
+2409000
+This is the number of sequences in the file.
+51
+This is the number of sequences from China.
+ 971269 USA
+ 662386 United Kingdom
+ 386969 Denmark
+ 203594 Germany
+  46745 France
+  30851 Switzerland
+  23092 Slovakia
+  20094 Iceland
+  13937 New Zealand
+   9992 Brazil
+   6769 Mexico
+   5748 Bahrain
+   4805 South Africa
+   3572 Thailand
+   3318 Kenya
+   3273 Japan
+   2128 Viet Nam
+   1355 India
+   1081 Iran
+   1074 Liechtenstein
+    642 Hong Kong
+    461 Gambia
+    459 Laos
+    402 Pakistan
+    380 Italy
+    314 Bangladesh
+    301 Djibouti
+    298 Paraguay
+    296 Peru
+    294 Mongolia
+    290 Jamaica
+    289 Malawi
+    283 Gabon
+    250 Iraq
+    237 Malaysia
+    203 South Korea
+    199 Seychelles
+    171 Taiwan
+    123 Sweden
+    105 Bhutan
+     89 Dominican Republic
+     85 Uganda
+     84 Colombia
+     76 Argentina
+     67 Indonesia
+     56 
+     51 China
+     44 Egypt
+     40 West Bank
+     40 Myanmar
+     39 Australia
+     30 Russia
+     30 Nigeria
+     27 Tanzania
+     27 Netherlands
+     25 Philippines
+     19 Ireland
+     19 Belgium
+     15 Finland
+     13 Canada
+     12 Uzbekistan
+     10 Palau
+      8 Turkey
+      8 Nepal
+      8 Israel
+      6 Spain
+      6 Singapore
+      5 Chile
+      3 Ecuador
+      3 Austria
+      2 Saudi Arabia
+      1 Suriname
+      1 Norway
+      1 Kazakhstan
+      1 Hungary
+This is the number of sequences from each country.
