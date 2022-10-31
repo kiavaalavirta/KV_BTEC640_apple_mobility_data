@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # A bash script to parse SARS-CoV-2 sequence data using Linux tools
+# We are parsing the sequence data to find out more about its properties
 
 # Kia Vaalavirta
 # October 28, 2022
@@ -37,3 +38,7 @@ echo "This is the number of sequences in the file."
 bioawk -c fastx '/China/ {print $name}' $1 | wc -l
 echo "This is the number of sequences from China."
 
+# tally up the number of SARS-CoV-2 sequences in the dataset from each country
+# and sort them from most to least sequences
+zgrep ">" $1 | cut -d '|' -f 21 | sort | uniq -c | sort -r -k1 -n 
+# echo This is the number of sequences from each country.
