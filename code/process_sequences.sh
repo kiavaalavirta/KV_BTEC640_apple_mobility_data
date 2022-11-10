@@ -7,7 +7,7 @@
 # October 28, 2022
 # kavaalavirta@dons.usfca.edu
 
-# add code to male sure that all commands in  pipelines run
+# add code to make sure that all commands in  pipelines run
 set -eou pipefail
 
 # check to make sure there is exactly one command-line argument
